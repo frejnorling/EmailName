@@ -1,0 +1,16 @@
+{
+  "name": "emailname",
+  "version": "0.1.0",
+  "homepage": "http://frejnorling.github.io/EmailNameJS",
+  "authors": [
+    "Frej Norling <frej@firesub.com>"
+  ],
+  "description": "Extract perfectly formated name from any email",
+  "main": "lib/EmailName.js",
+  "keywords": [
+    "Email",
+    "Javascript",
+    "Extract"
+  ],
+  "license": "MIT"
+}
