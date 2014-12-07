@@ -8,6 +8,7 @@ Install
     bower install emailname
 
 or
+    
     &lt;script src=&quot;/EmailName.js&quot;&gt;&lt;/script&gt;
 
 
