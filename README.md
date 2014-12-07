@@ -3,6 +3,14 @@ EmailName
 
 Extract perfectly formated names from emails even from UTF-8 emails.
 
+Install
+---
+    bower install emailname
+
+or
+    <script src="emailname.js">
+
+
 Examples
 ---
     var name = EmailName('frej.norling@example.com');
