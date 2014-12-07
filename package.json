@@ -1,0 +1,22 @@
+{
+  "name": "emailname",
+  "version": "0.2.0",
+  "description": "Extract perfectly formated names from any email.",
+  "main": "/lib/emailname.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frejnorling/EmailName.git"
+  },
+  "keywords": [
+    "email",
+    "name",
+    "extract",
+    "javascript"
+  ],
+  "author": "Frej Norling <frej@wpg.se> (http://frej.co/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frejnorling/EmailName/issues"
+  },
+  "homepage": "http://frejnorling.github.io/EmailName/"
+}

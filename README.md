@@ -9,10 +9,12 @@ http://frejnorling.github.io/EmailName
 
 Install
 ---
+    npm install emailname
+
     bower install emailname
 
-or
-    
+Include as a script
+
     <script src="emailname.js"></script>
 
 
