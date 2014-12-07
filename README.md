@@ -9,7 +9,7 @@ Install
 
 or
     
-    &lt;script src=&quot;/EmailName.js&quot;&gt;&lt;/script&gt;
+    <script src="emailname.js"></script>
 
 
 Examples
