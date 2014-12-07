@@ -27,8 +27,8 @@ Examples
     
 Authors
 ---
-Code: [FrejNorling](http://github.com/frejnorling)
+Code: [FrejNorling](https://github.com/frejnorling)
 
 License
 ---
-The MIT license (Refer to the LICENSE.md file)
+The MIT license (Refer to the [LICENSE.md](https://github.com/frejnorling/EmailName/blob/master/LICENSE) file)
