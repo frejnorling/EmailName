@@ -3,6 +3,10 @@ EmailName
 
 Extract perfectly formated names from emails even from UTF-8 emails.
 
+Demo
+---
+http://frejnorling.github.io/EmailName
+
 Install
 ---
     bower install emailname
