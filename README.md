@@ -23,3 +23,12 @@ Examples
 
     var name = EmailName('mårten12_.sÖderBerg12@example.com');
     // name = 'Mårten Söderberg' 
+    
+    
+Authors
+---
+Code: [FrejNorling](http://github.com/frejnorling)
+
+License
+---
+The MIT license (Refer to the LICENSE.md file)
