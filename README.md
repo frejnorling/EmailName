@@ -1,7 +1,7 @@
 EmailName
 =========
 
-Extract perfectly formated names from emails even from UTF-8 emails.
+Extract formated names from any email.
 
 Demo
 ---
