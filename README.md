@@ -16,9 +16,11 @@ Install
 Include as a script
 
     <script src="emailname.js"></script>
+    or
+    <script src="emailname.min.js"></script>
 
 
-Examples
+Code examples
 ---
     var name = EmailName('frej.norling@example.com');
     // name = 'Frej Norling' 
