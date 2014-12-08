@@ -5,7 +5,7 @@
   "authors": [
     "Frej Norling <frej@firesub.com>"
   ],
-  "description": "Extract perfectly formated name from any email",
+  "description": "Extract formated names from any email.",
   "main": "lib/emailname.js",
   "keywords": [
     "Email",

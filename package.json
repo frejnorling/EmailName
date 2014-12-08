@@ -1,7 +1,7 @@
 {
   "name": "emailname",
   "version": "0.2.0",
-  "description": "Extract perfectly formated names from any email.",
+  "description": "Extract formated names from any email.",
   "main": "/lib/emailname.js",
   "repository": {
     "type": "git",
